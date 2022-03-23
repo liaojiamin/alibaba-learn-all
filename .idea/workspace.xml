@@ -3,221 +3,13 @@
   <component name="ChangeListManager">
     <list default="true" id="65a983d7-8d4f-41e3-857f-b04cf3207f0c" name="Default" comment="">
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-cloud-alibaba-learn/src/test/java/MainTest.java" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/spring-cloud-alibaba-learn/.idea/compiler.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/spring-cloud-alibaba-learn/.idea/encodings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/spring-cloud-alibaba-learn/.idea/inspectionProfiles/Project_Default.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/spring-cloud-alibaba-learn/.idea/misc.xml" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/spring-cloud-alibaba-learn/.idea/uiDesigner.xml" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dubbo/.codecov.yml" afterPath="$PROJECT_DIR$/dubbo/.codecov.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dubbo/CONTRIBUTING.md" afterPath="$PROJECT_DIR$/dubbo/CONTRIBUTING.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dubbo/LICENSE" afterPath="$PROJECT_DIR$/dubbo/LICENSE" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dubbo/PULL_REQUEST_TEMPLATE.md" afterPath="$PROJECT_DIR$/dubbo/PULL_REQUEST_TEMPLATE.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dubbo/README.md" afterPath="$PROJECT_DIR$/dubbo/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dubbo/SECURITY.md" afterPath="$PROJECT_DIR$/dubbo/SECURITY.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dubbo/compiler/pom.xml" afterPath="$PROJECT_DIR$/dubbo/compiler/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dubbo/compiler/src/main/resources/DubboGrpcStub.mustache" afterPath="$PROJECT_DIR$/dubbo/compiler/src/main/resources/DubboGrpcStub.mustache" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dubbo/dubbo-all/pom.xml" afterPath="$PROJECT_DIR$/dubbo/dubbo-all/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dubbo/dubbo-bom/pom.xml" afterPath="$PROJECT_DIR$/dubbo/dubbo-bom/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dubbo/dubbo-cluster/src/main/java/org/apache/dubbo/rpc/cluster/governance/GovernanceRuleRepository.java" afterPath="$PROJECT_DIR$/dubbo/dubbo-cluster/src/main/java/org/apache/dubbo/rpc/cluster/governance/GovernanceRuleRepository.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dubbo/dubbo-cluster/src/main/java/org/apache/dubbo/rpc/cluster/loadbalance/AbstractLoadBalance.java" afterPath="$PROJECT_DIR$/dubbo/dubbo-cluster/src/main/java/org/apache/dubbo/rpc/cluster/loadbalance/AbstractLoadBalance.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dubbo/dubbo-cluster/src/main/java/org/apache/dubbo/rpc/cluster/support/FailoverClusterInvoker.java" afterPath="$PROJECT_DIR$/dubbo/dubbo-cluster/src/main/java/org/apache/dubbo/rpc/cluster/support/FailoverClusterInvoker.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dubbo/dubbo-cluster/src/main/resources/META-INF/dubbo/internal/org.apache.dubbo.rpc.cluster.governance.GovernanceRuleRepository" afterPath="$PROJECT_DIR$/dubbo/dubbo-cluster/src/main/resources/META-INF/dubbo/internal/org.apache.dubbo.rpc.cluster.governance.GovernanceRuleRepository" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dubbo/dubbo-cluster/src/test/java/org/apache/dubbo/rpc/cluster/support/AbstractClusterInvokerTest.java" afterPath="$PROJECT_DIR$/dubbo/dubbo-cluster/src/test/java/org/apache/dubbo/rpc/cluster/support/AbstractClusterInvokerTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dubbo/dubbo-cluster/src/test/java/org/apache/dubbo/rpc/cluster/support/wrapper/MockClusterInvokerTest.java" afterPath="$PROJECT_DIR$/dubbo/dubbo-cluster/src/test/java/org/apache/dubbo/rpc/cluster/support/wrapper/MockClusterInvokerTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dubbo/dubbo-cluster/src/test/resources/log4j.xml" afterPath="$PROJECT_DIR$/dubbo/dubbo-cluster/src/test/resources/log4j.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dubbo/dubbo-common/pom.xml" afterPath="$PROJECT_DIR$/dubbo/dubbo-common/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dubbo/dubbo-common/src/main/java/com/alibaba/dubbo/common/extension/Activate.java" afterPath="$PROJECT_DIR$/dubbo/dubbo-common/src/main/java/com/alibaba/dubbo/common/extension/Activate.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dubbo/dubbo-common/src/main/java/org/apache/dubbo/common/config/configcenter/AbstractDynamicConfiguration.java" afterPath="$PROJECT_DIR$/dubbo/dubbo-common/src/main/java/org/apache/dubbo/common/config/configcenter/AbstractDynamicConfiguration.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dubbo/dubbo-common/src/main/java/org/apache/dubbo/common/config/configcenter/file/FileSystemDynamicConfiguration.java" afterPath="$PROJECT_DIR$/dubbo/dubbo-common/src/main/java/org/apache/dubbo/common/config/configcenter/file/FileSystemDynamicConfiguration.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dubbo/dubbo-common/src/main/java/org/apache/dubbo/common/constants/CommonConstants.java" afterPath="$PROJECT_DIR$/dubbo/dubbo-common/src/main/java/org/apache/dubbo/common/constants/CommonConstants.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dubbo/dubbo-common/src/main/java/org/apache/dubbo/common/extension/Adaptive.java" afterPath="$PROJECT_DIR$/dubbo/dubbo-common/src/main/java/org/apache/dubbo/common/extension/Adaptive.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dubbo/dubbo-common/src/main/java/org/apache/dubbo/common/extension/SPI.java" afterPath="$PROJECT_DIR$/dubbo/dubbo-common/src/main/java/org/apache/dubbo/common/extension/SPI.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dubbo/dubbo-common/src/main/java/org/apache/dubbo/common/utils/ConfigUtils.java" afterPath="$PROJECT_DIR$/dubbo/dubbo-common/src/main/java/org/apache/dubbo/common/utils/ConfigUtils.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dubbo/dubbo-common/src/main/java/org/apache/dubbo/common/utils/UrlUtils.java" afterPath="$PROJECT_DIR$/dubbo/dubbo-common/src/main/java/org/apache/dubbo/common/utils/UrlUtils.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dubbo/dubbo-common/src/main/java/org/apache/dubbo/config/AbstractConfig.java" afterPath="$PROJECT_DIR$/dubbo/dubbo-common/src/main/java/org/apache/dubbo/config/AbstractConfig.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dubbo/dubbo-common/src/main/java/org/apache/dubbo/config/Constants.java" afterPath="$PROJECT_DIR$/dubbo/dubbo-common/src/main/java/org/apache/dubbo/config/Constants.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dubbo/dubbo-common/src/main/resources/META-INF/dubbo/internal/org.apache.dubbo.common.compiler.Compiler" afterPath="$PROJECT_DIR$/dubbo/dubbo-common/src/main/resources/META-INF/dubbo/internal/org.apache.dubbo.common.compiler.Compiler" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dubbo/dubbo-common/src/main/resources/META-INF/dubbo/internal/org.apache.dubbo.common.config.configcenter.DynamicConfigurationFactory" afterPath="$PROJECT_DIR$/dubbo/dubbo-common/src/main/resources/META-INF/dubbo/internal/org.apache.dubbo.common.config.configcenter.DynamicConfigurationFactory" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dubbo/dubbo-common/src/main/resources/META-INF/dubbo/internal/org.apache.dubbo.common.context.FrameworkExt" afterPath="$PROJECT_DIR$/dubbo/dubbo-common/src/main/resources/META-INF/dubbo/internal/org.apache.dubbo.common.context.FrameworkExt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dubbo/dubbo-common/src/main/resources/META-INF/dubbo/internal/org.apache.dubbo.common.infra.InfraAdapter" afterPath="$PROJECT_DIR$/dubbo/dubbo-common/src/main/resources/META-INF/dubbo/internal/org.apache.dubbo.common.infra.InfraAdapter" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dubbo/dubbo-common/src/main/resources/META-INF/dubbo/internal/org.apache.dubbo.common.status.StatusChecker" afterPath="$PROJECT_DIR$/dubbo/dubbo-common/src/main/resources/META-INF/dubbo/internal/org.apache.dubbo.common.status.StatusChecker" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dubbo/dubbo-common/src/main/resources/META-INF/dubbo/internal/org.apache.dubbo.common.store.DataStore" afterPath="$PROJECT_DIR$/dubbo/dubbo-common/src/main/resources/META-INF/dubbo/internal/org.apache.dubbo.common.store.DataStore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dubbo/dubbo-common/src/main/resources/META-INF/dubbo/internal/org.apache.dubbo.rpc.model.BuiltinServiceDetector" afterPath="$PROJECT_DIR$/dubbo/dubbo-common/src/main/resources/META-INF/dubbo/internal/org.apache.dubbo.rpc.model.BuiltinServiceDetector" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dubbo/dubbo-common/src/test/java/org/apache/dubbo/common/config/configcenter/AbstractDynamicConfigurationTest.java" afterPath="$PROJECT_DIR$/dubbo/dubbo-common/src/test/java/org/apache/dubbo/common/config/configcenter/AbstractDynamicConfigurationTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dubbo/dubbo-common/src/test/java/org/apache/dubbo/common/config/configcenter/file/FileSystemDynamicConfigurationTest.java" afterPath="$PROJECT_DIR$/dubbo/dubbo-common/src/test/java/org/apache/dubbo/common/config/configcenter/file/FileSystemDynamicConfigurationTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dubbo/dubbo-common/src/test/java/org/apache/dubbo/common/threadpool/support/AbortPolicyWithReportTest.java" afterPath="$PROJECT_DIR$/dubbo/dubbo-common/src/test/java/org/apache/dubbo/common/threadpool/support/AbortPolicyWithReportTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dubbo/dubbo-common/src/test/java/org/apache/dubbo/common/threadpool/support/cached/CachedThreadPoolTest.java" afterPath="$PROJECT_DIR$/dubbo/dubbo-common/src/test/java/org/apache/dubbo/common/threadpool/support/cached/CachedThreadPoolTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dubbo/dubbo-common/src/test/java/org/apache/dubbo/common/threadpool/support/fixed/FixedThreadPoolTest.java" afterPath="$PROJECT_DIR$/dubbo/dubbo-common/src/test/java/org/apache/dubbo/common/threadpool/support/fixed/FixedThreadPoolTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dubbo/dubbo-common/src/test/resources/META-INF/dubbo/internal/org.apache.dubbo.common.extension.ext1.SimpleExt" afterPath="$PROJECT_DIR$/dubbo/dubbo-common/src/test/resources/META-INF/dubbo/internal/org.apache.dubbo.common.extension.ext1.SimpleExt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dubbo/dubbo-common/src/test/resources/META-INF/dubbo/internal/org.apache.dubbo.common.extension.ext10_multi_names.Ext10MultiNames" afterPath="$PROJECT_DIR$/dubbo/dubbo-common/src/test/resources/META-INF/dubbo/internal/org.apache.dubbo.common.extension.ext10_multi_names.Ext10MultiNames" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dubbo/dubbo-common/src/test/resources/META-INF/dubbo/internal/org.apache.dubbo.common.extension.ext2.Ext2" afterPath="$PROJECT_DIR$/dubbo/dubbo-common/src/test/resources/META-INF/dubbo/internal/org.apache.dubbo.common.extension.ext2.Ext2" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dubbo/dubbo-common/src/test/resources/META-INF/dubbo/internal/org.apache.dubbo.common.extension.ext3.UseProtocolKeyExt" afterPath="$PROJECT_DIR$/dubbo/dubbo-common/src/test/resources/META-INF/dubbo/internal/org.apache.dubbo.common.extension.ext3.UseProtocolKeyExt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dubbo/dubbo-common/src/test/resources/META-INF/dubbo/internal/org.apache.dubbo.common.extension.ext5.NoAdaptiveMethodExt" afterPath="$PROJECT_DIR$/dubbo/dubbo-common/src/test/resources/META-INF/dubbo/internal/org.apache.dubbo.common.extension.ext5.NoAdaptiveMethodExt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dubbo/dubbo-common/src/test/resources/META-INF/dubbo/internal/org.apache.dubbo.common.extension.support.Filter0" afterPath="$PROJECT_DIR$/dubbo/dubbo-common/src/test/resources/META-INF/dubbo/internal/org.apache.dubbo.common.extension.support.Filter0" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dubbo/dubbo-common/src/test/resources/log4j.xml" afterPath="$PROJECT_DIR$/dubbo/dubbo-common/src/test/resources/log4j.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dubbo/dubbo-common/src/test/resources/parameters.properties" afterPath="$PROJECT_DIR$/dubbo/dubbo-common/src/test/resources/parameters.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dubbo/dubbo-compatible/src/test/java/org/apache/dubbo/config/ConfigTest.java" afterPath="$PROJECT_DIR$/dubbo/dubbo-compatible/src/test/java/org/apache/dubbo/config/ConfigTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dubbo/dubbo-config/dubbo-config-api/src/main/java/org/apache/dubbo/config/ReferenceConfig.java" afterPath="$PROJECT_DIR$/dubbo/dubbo-config/dubbo-config-api/src/main/java/org/apache/dubbo/config/ReferenceConfig.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dubbo/dubbo-config/dubbo-config-api/src/main/java/org/apache/dubbo/config/utils/ConfigValidationUtils.java" afterPath="$PROJECT_DIR$/dubbo/dubbo-config/dubbo-config-api/src/main/java/org/apache/dubbo/config/utils/ConfigValidationUtils.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dubbo/dubbo-config/dubbo-config-api/src/test/java/org/apache/dubbo/config/ApplicationConfigTest.java" afterPath="$PROJECT_DIR$/dubbo/dubbo-config/dubbo-config-api/src/test/java/org/apache/dubbo/config/ApplicationConfigTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dubbo/dubbo-config/dubbo-config-api/src/test/java/org/apache/dubbo/config/ConfigCenterConfigTest.java" afterPath="$PROJECT_DIR$/dubbo/dubbo-config/dubbo-config-api/src/test/java/org/apache/dubbo/config/ConfigCenterConfigTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dubbo/dubbo-config/dubbo-config-api/src/test/java/org/apache/dubbo/config/ReferenceConfigTest.java" afterPath="$PROJECT_DIR$/dubbo/dubbo-config/dubbo-config-api/src/test/java/org/apache/dubbo/config/ReferenceConfigTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dubbo/dubbo-config/dubbo-config-api/src/test/java/org/apache/dubbo/config/bootstrap/ZookeeperDubboServiceConsumerBootstrap.java" afterPath="$PROJECT_DIR$/dubbo/dubbo-config/dubbo-config-api/src/test/java/org/apache/dubbo/config/bootstrap/ZookeeperDubboServiceConsumerBootstrap.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dubbo/dubbo-config/dubbo-config-api/src/test/java/org/apache/dubbo/config/bootstrap/ZookeeperDubboServiceProviderBootstrap.java" afterPath="$PROJECT_DIR$/dubbo/dubbo-config/dubbo-config-api/src/test/java/org/apache/dubbo/config/bootstrap/ZookeeperDubboServiceProviderBootstrap.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dubbo/dubbo-config/dubbo-config-api/src/test/java/org/apache/dubbo/config/bootstrap/compatible/DubboInterfaceConsumerBootstrap.java" afterPath="$PROJECT_DIR$/dubbo/dubbo-config/dubbo-config-api/src/test/java/org/apache/dubbo/config/bootstrap/compatible/DubboInterfaceConsumerBootstrap.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dubbo/dubbo-config/dubbo-config-api/src/test/java/org/apache/dubbo/config/mock/MockProtocol.java" afterPath="$PROJECT_DIR$/dubbo/dubbo-config/dubbo-config-api/src/test/java/org/apache/dubbo/config/mock/MockProtocol.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dubbo/dubbo-config/dubbo-config-api/src/test/java/org/apache/dubbo/config/url/InvokerSideConfigUrlTest.java" afterPath="$PROJECT_DIR$/dubbo/dubbo-config/dubbo-config-api/src/test/java/org/apache/dubbo/config/url/InvokerSideConfigUrlTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dubbo/dubbo-config/dubbo-config-spring/src/main/java/org/apache/dubbo/config/spring/context/annotation/DubboConfigConfiguration.java" afterPath="$PROJECT_DIR$/dubbo/dubbo-config/dubbo-config-spring/src/main/java/org/apache/dubbo/config/spring/context/annotation/DubboConfigConfiguration.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dubbo/dubbo-config/dubbo-config-spring/src/main/java/org/apache/dubbo/config/spring/context/annotation/EnableDubboConfig.java" afterPath="$PROJECT_DIR$/dubbo/dubbo-config/dubbo-config-spring/src/main/java/org/apache/dubbo/config/spring/context/annotation/EnableDubboConfig.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dubbo/dubbo-config/dubbo-config-spring/src/main/java/org/apache/dubbo/config/spring/schema/AnnotationBeanDefinitionParser.java" afterPath="$PROJECT_DIR$/dubbo/dubbo-config/dubbo-config-spring/src/main/java/org/apache/dubbo/config/spring/schema/AnnotationBeanDefinitionParser.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dubbo/dubbo-config/dubbo-config-spring/src/main/resources/META-INF/compat/dubbo.xsd" afterPath="$PROJECT_DIR$/dubbo/dubbo-config/dubbo-config-spring/src/main/resources/META-INF/compat/dubbo.xsd" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dubbo/dubbo-config/dubbo-config-spring/src/main/resources/META-INF/dubbo.xsd" afterPath="$PROJECT_DIR$/dubbo/dubbo-config/dubbo-config-spring/src/main/resources/META-INF/dubbo.xsd" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dubbo/dubbo-config/dubbo-config-spring/src/test/java/org/apache/dubbo/config/spring/beans/factory/annotation/DubboConfigBindingBeanPostProcessorTest.java" afterPath="$PROJECT_DIR$/dubbo/dubbo-config/dubbo-config-spring/src/test/java/org/apache/dubbo/config/spring/beans/factory/annotation/DubboConfigBindingBeanPostProcessorTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dubbo/dubbo-config/dubbo-config-spring/src/test/java/org/apache/dubbo/config/spring/beans/factory/annotation/ReferenceAnnotationBeanPostProcessorTest.java" afterPath="$PROJECT_DIR$/dubbo/dubbo-config/dubbo-config-spring/src/test/java/org/apache/dubbo/config/spring/beans/factory/annotation/ReferenceAnnotationBeanPostProcessorTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dubbo/dubbo-config/dubbo-config-spring/src/test/java/org/apache/dubbo/config/spring/beans/factory/annotation/ReferenceBeanBuilderTest.java" afterPath="$PROJECT_DIR$/dubbo/dubbo-config/dubbo-config-spring/src/test/java/org/apache/dubbo/config/spring/beans/factory/annotation/ReferenceBeanBuilderTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dubbo/dubbo-config/dubbo-config-spring/src/test/java/org/apache/dubbo/config/spring/beans/factory/annotation/ServiceBeanNameBuilderTest.java" afterPath="$PROJECT_DIR$/dubbo/dubbo-config/dubbo-config-spring/src/test/java/org/apache/dubbo/config/spring/beans/factory/annotation/ServiceBeanNameBuilderTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dubbo/dubbo-config/dubbo-config-spring/src/test/java/org/apache/dubbo/config/spring/context/annotation/provider/ProviderConfiguration.java" afterPath="$PROJECT_DIR$/dubbo/dubbo-config/dubbo-config-spring/src/test/java/org/apache/dubbo/config/spring/context/annotation/provider/ProviderConfiguration.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dubbo/dubbo-config/dubbo-config-spring/src/test/java/org/apache/dubbo/config/spring/registry/nacos/demo/provider/DemoServiceProviderBootstrap.java" afterPath="$PROJECT_DIR$/dubbo/dubbo-config/dubbo-config-spring/src/test/java/org/apache/dubbo/config/spring/registry/nacos/demo/provider/DemoServiceProviderBootstrap.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dubbo/dubbo-config/dubbo-config-spring/src/test/java/org/apache/dubbo/config/spring/schema/DubboNamespaceHandlerTest.java" afterPath="$PROJECT_DIR$/dubbo/dubbo-config/dubbo-config-spring/src/test/java/org/apache/dubbo/config/spring/schema/DubboNamespaceHandlerTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dubbo/dubbo-config/dubbo-config-spring/src/test/resources/META-INF/config.properties" afterPath="$PROJECT_DIR$/dubbo/dubbo-config/dubbo-config-spring/src/test/resources/META-INF/config.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dubbo/dubbo-config/dubbo-config-spring/src/test/resources/META-INF/dubbb-consumer.properties" afterPath="$PROJECT_DIR$/dubbo/dubbo-config/dubbo-config-spring/src/test/resources/META-INF/dubbb-consumer.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dubbo/dubbo-config/dubbo-config-spring/src/test/resources/META-INF/dubbo/internal/org.apache.dubbo.rpc.Filter" afterPath="$PROJECT_DIR$/dubbo/dubbo-config/dubbo-config-spring/src/test/resources/META-INF/dubbo/internal/org.apache.dubbo.rpc.Filter" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dubbo/dubbo-config/dubbo-config-spring/src/test/resources/META-INF/spring/dubbo-annotation-provider.xml" afterPath="$PROJECT_DIR$/dubbo/dubbo-config/dubbo-config-spring/src/test/resources/META-INF/spring/dubbo-annotation-provider.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dubbo/dubbo-config/dubbo-config-spring/src/test/resources/META-INF/spring/dubbo-provider.xml" afterPath="$PROJECT_DIR$/dubbo/dubbo-config/dubbo-config-spring/src/test/resources/META-INF/spring/dubbo-provider.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dubbo/dubbo-config/dubbo-config-spring/src/test/resources/dubbo-binder.properties" afterPath="$PROJECT_DIR$/dubbo/dubbo-config/dubbo-config-spring/src/test/resources/dubbo-binder.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dubbo/dubbo-config/dubbo-config-spring/src/test/resources/log4j.xml" afterPath="$PROJECT_DIR$/dubbo/dubbo-config/dubbo-config-spring/src/test/resources/log4j.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dubbo/dubbo-config/dubbo-config-spring/src/test/resources/nacos-consumer-config.properties" afterPath="$PROJECT_DIR$/dubbo/dubbo-config/dubbo-config-spring/src/test/resources/nacos-consumer-config.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dubbo/dubbo-config/dubbo-config-spring/src/test/resources/nacos-provider-config.properties" afterPath="$PROJECT_DIR$/dubbo/dubbo-config/dubbo-config-spring/src/test/resources/nacos-provider-config.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dubbo/dubbo-config/dubbo-config-spring/src/test/resources/org/apache/dubbo/config/spring/annotation-consumer.xml" afterPath="$PROJECT_DIR$/dubbo/dubbo-config/dubbo-config-spring/src/test/resources/org/apache/dubbo/config/spring/annotation-consumer.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dubbo/dubbo-config/dubbo-config-spring/src/test/resources/org/apache/dubbo/config/spring/annotation-provider.xml" afterPath="$PROJECT_DIR$/dubbo/dubbo-config/dubbo-config-spring/src/test/resources/org/apache/dubbo/config/spring/annotation-provider.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dubbo/dubbo-config/dubbo-config-spring/src/test/resources/org/apache/dubbo/config/spring/annotation-version-consumer.xml" afterPath="$PROJECT_DIR$/dubbo/dubbo-config/dubbo-config-spring/src/test/resources/org/apache/dubbo/config/spring/annotation-version-consumer.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dubbo/dubbo-config/dubbo-config-spring/src/test/resources/org/apache/dubbo/config/spring/annotation-version-provider.xml" afterPath="$PROJECT_DIR$/dubbo/dubbo-config/dubbo-config-spring/src/test/resources/org/apache/dubbo/config/spring/annotation-version-provider.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dubbo/dubbo-config/dubbo-config-spring/src/test/resources/org/apache/dubbo/config/spring/init-reference-getUrls.xml" afterPath="$PROJECT_DIR$/dubbo/dubbo-config/dubbo-config-spring/src/test/resources/org/apache/dubbo/config/spring/init-reference-getUrls.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dubbo/dubbo-config/dubbo-config-spring/src/test/resources/org/apache/dubbo/config/spring/init-reference-retry-false.xml" afterPath="$PROJECT_DIR$/dubbo/dubbo-config/dubbo-config-spring/src/test/resources/org/apache/dubbo/config/spring/init-reference-retry-false.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dubbo/dubbo-config/dubbo-config-spring/src/test/resources/org/apache/dubbo/config/spring/provider-multi.xml" afterPath="$PROJECT_DIR$/dubbo/dubbo-config/dubbo-config-spring/src/test/resources/org/apache/dubbo/config/spring/provider-multi.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dubbo/dubbo-config/dubbo-config-spring/src/test/resources/org/apache/dubbo/config/spring/provider-nested-service.xml" afterPath="$PROJECT_DIR$/dubbo/dubbo-config/dubbo-config-spring/src/test/resources/org/apache/dubbo/config/spring/provider-nested-service.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dubbo/dubbo-config/dubbo-config-spring/src/test/resources/org/apache/dubbo/config/spring/provider-with-module.xml" afterPath="$PROJECT_DIR$/dubbo/dubbo-config/dubbo-config-spring/src/test/resources/org/apache/dubbo/config/spring/provider-with-module.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dubbo/dubbo-config/dubbo-config-spring/src/test/resources/org/apache/dubbo/config/spring/service-class.xml" afterPath="$PROJECT_DIR$/dubbo/dubbo-config/dubbo-config-spring/src/test/resources/org/apache/dubbo/config/spring/service-class.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dubbo/dubbo-config/dubbo-config-spring/src/test/resources/webapps/test/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/dubbo/dubbo-config/dubbo-config-spring/src/test/resources/webapps/test/WEB-INF/web.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dubbo/dubbo-configcenter/dubbo-configcenter-apollo/src/test/java/org/apache/dubbo/configcenter/support/apollo/ApolloDynamicConfigurationTest.java" afterPath="$PROJECT_DIR$/dubbo/dubbo-configcenter/dubbo-configcenter-apollo/src/test/java/org/apache/dubbo/configcenter/support/apollo/ApolloDynamicConfigurationTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dubbo/dubbo-configcenter/dubbo-configcenter-etcd/src/test/java/org/apache/dubbo/configcenter/support/etcd/EtcdDynamicConfigurationTest.java" afterPath="$PROJECT_DIR$/dubbo/dubbo-configcenter/dubbo-configcenter-etcd/src/test/java/org/apache/dubbo/configcenter/support/etcd/EtcdDynamicConfigurationTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dubbo/dubbo-configcenter/dubbo-configcenter-nacos/src/main/java/org/apache/dubbo/configcenter/support/nacos/NacosDynamicConfigurationFactory.java" afterPath="$PROJECT_DIR$/dubbo/dubbo-configcenter/dubbo-configcenter-nacos/src/main/java/org/apache/dubbo/configcenter/support/nacos/NacosDynamicConfigurationFactory.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dubbo/dubbo-container/dubbo-container-api/pom.xml" afterPath="$PROJECT_DIR$/dubbo/dubbo-container/dubbo-container-api/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dubbo/dubbo-container/dubbo-container-api/src/main/java/org/apache/dubbo/container/Main.java" afterPath="$PROJECT_DIR$/dubbo/dubbo-container/dubbo-container-api/src/main/java/org/apache/dubbo/container/Main.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dubbo/dubbo-container/dubbo-container-api/src/main/resources/META-INF/assembly/bin/start.sh" afterPath="$PROJECT_DIR$/dubbo/dubbo-container/dubbo-container-api/src/main/resources/META-INF/assembly/bin/start.sh" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dubbo/dubbo-container/dubbo-container-log4j/pom.xml" afterPath="$PROJECT_DIR$/dubbo/dubbo-container/dubbo-container-log4j/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dubbo/dubbo-container/dubbo-container-logback/src/main/java/org/apache/dubbo/container/logback/LogbackContainer.java" afterPath="$PROJECT_DIR$/dubbo/dubbo-container/dubbo-container-logback/src/main/java/org/apache/dubbo/container/logback/LogbackContainer.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dubbo/dubbo-container/dubbo-container-spring/pom.xml" afterPath="$PROJECT_DIR$/dubbo/dubbo-container/dubbo-container-spring/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dubbo/dubbo-demo/dubbo-demo-annotation/dubbo-demo-annotation-provider/src/main/java/org/apache/dubbo/demo/provider/Application.java" afterPath="$PROJECT_DIR$/dubbo/dubbo-demo/dubbo-demo-annotation/dubbo-demo-annotation-provider/src/main/java/org/apache/dubbo/demo/provider/Application.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dubbo/dubbo-demo/dubbo-demo-api/dubbo-demo-api-provider/src/main/java/org/apache/dubbo/demo/provider/Application.java" afterPath="$PROJECT_DIR$/dubbo/dubbo-demo/dubbo-demo-api/dubbo-demo-api-provider/src/main/java/org/apache/dubbo/demo/provider/Application.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dubbo/dubbo-demo/dubbo-demo-xml/dubbo-demo-xml-consumer/pom.xml" afterPath="$PROJECT_DIR$/dubbo/dubbo-demo/dubbo-demo-xml/dubbo-demo-xml-consumer/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dubbo/dubbo-demo/pom.xml" afterPath="$PROJECT_DIR$/dubbo/dubbo-demo/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dubbo/dubbo-dependencies-bom/pom.xml" afterPath="$PROJECT_DIR$/dubbo/dubbo-dependencies-bom/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dubbo/dubbo-filter/dubbo-filter-cache/src/main/java/org/apache/dubbo/cache/CacheFactory.java" afterPath="$PROJECT_DIR$/dubbo/dubbo-filter/dubbo-filter-cache/src/main/java/org/apache/dubbo/cache/CacheFactory.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dubbo/dubbo-filter/dubbo-filter-cache/src/main/java/org/apache/dubbo/cache/support/lru/LruCache.java" afterPath="$PROJECT_DIR$/dubbo/dubbo-filter/dubbo-filter-cache/src/main/java/org/apache/dubbo/cache/support/lru/LruCache.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dubbo/dubbo-filter/dubbo-filter-validation/pom.xml" afterPath="$PROJECT_DIR$/dubbo/dubbo-filter/dubbo-filter-validation/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dubbo/dubbo-filter/dubbo-filter-validation/src/main/java/org/apache/dubbo/validation/support/jvalidation/JValidator.java" afterPath="$PROJECT_DIR$/dubbo/dubbo-filter/dubbo-filter-validation/src/main/java/org/apache/dubbo/validation/support/jvalidation/JValidator.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dubbo/dubbo-metadata/dubbo-metadata-api/src/main/java/org/apache/dubbo/metadata/report/support/AbstractMetadataReport.java" afterPath="$PROJECT_DIR$/dubbo/dubbo-metadata/dubbo-metadata-api/src/main/java/org/apache/dubbo/metadata/report/support/AbstractMetadataReport.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dubbo/dubbo-metadata/dubbo-metadata-api/src/test/java/org/apache/dubbo/metadata/report/support/AbstractMetadataReportTest.java" afterPath="$PROJECT_DIR$/dubbo/dubbo-metadata/dubbo-metadata-api/src/test/java/org/apache/dubbo/metadata/report/support/AbstractMetadataReportTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dubbo/dubbo-metadata/dubbo-metadata-definition-protobuf/src/main/resources/META-INF/dubbo/internal/org.apache.dubbo.metadata.definition.builder.TypeBuilder" afterPath="$PROJECT_DIR$/dubbo/dubbo-metadata/dubbo-metadata-definition-protobuf/src/main/resources/META-INF/dubbo/internal/org.apache.dubbo.metadata.definition.builder.TypeBuilder" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dubbo/dubbo-metadata/dubbo-metadata-report-etcd/src/test/java/org/apache/dubbo/metadata/store/etcd/EtcdMetadataReportTest.java" afterPath="$PROJECT_DIR$/dubbo/dubbo-metadata/dubbo-metadata-report-etcd/src/test/java/org/apache/dubbo/metadata/store/etcd/EtcdMetadataReportTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dubbo/dubbo-metadata/dubbo-metadata-report-nacos/src/main/resources/META-INF/dubbo/internal/org.apache.dubbo.metadata.report.MetadataReportFactory" afterPath="$PROJECT_DIR$/dubbo/dubbo-metadata/dubbo-metadata-report-nacos/src/main/resources/META-INF/dubbo/internal/org.apache.dubbo.metadata.report.MetadataReportFactory" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dubbo/dubbo-metadata/dubbo-metadata-report-zookeeper/src/test/java/org/apache/dubbo/metadata/store/zookeeper/ZookeeperMetadataReportTest.java" afterPath="$PROJECT_DIR$/dubbo/dubbo-metadata/dubbo-metadata-report-zookeeper/src/test/java/org/apache/dubbo/metadata/store/zookeeper/ZookeeperMetadataReportTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dubbo/dubbo-monitor/dubbo-monitor-api/src/main/java/org/apache/dubbo/monitor/Constants.java" afterPath="$PROJECT_DIR$/dubbo/dubbo-monitor/dubbo-monitor-api/src/main/java/org/apache/dubbo/monitor/Constants.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dubbo/dubbo-monitor/dubbo-monitor-api/src/test/java/org/apache/dubbo/monitor/support/AbstractMonitorFactoryTest.java" afterPath="$PROJECT_DIR$/dubbo/dubbo-monitor/dubbo-monitor-api/src/test/java/org/apache/dubbo/monitor/support/AbstractMonitorFactoryTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dubbo/dubbo-monitor/dubbo-monitor-default/src/main/resources/META-INF/dubbo/internal/org.apache.dubbo.monitor.MonitorFactory" afterPath="$PROJECT_DIR$/dubbo/dubbo-monitor/dubbo-monitor-default/src/main/resources/META-INF/dubbo/internal/org.apache.dubbo.monitor.MonitorFactory" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dubbo/dubbo-monitor/dubbo-monitor-default/src/main/resources/META-INF/dubbo/internal/org.apache.dubbo.rpc.Filter" afterPath="$PROJECT_DIR$/dubbo/dubbo-monitor/dubbo-monitor-default/src/main/resources/META-INF/dubbo/internal/org.apache.dubbo.rpc.Filter" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dubbo/dubbo-monitor/dubbo-monitor-default/src/test/java/org/apache/dubbo/monitor/dubbo/DubboMonitorTest.java" afterPath="$PROJECT_DIR$/dubbo/dubbo-monitor/dubbo-monitor-default/src/test/java/org/apache/dubbo/monitor/dubbo/DubboMonitorTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dubbo/dubbo-plugin/dubbo-qos/src/main/java/org/apache/dubbo/qos/command/impl/Online.java" afterPath="$PROJECT_DIR$/dubbo/dubbo-plugin/dubbo-qos/src/main/java/org/apache/dubbo/qos/command/impl/Online.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dubbo/dubbo-plugin/dubbo-qos/src/main/resources/META-INF/dubbo/internal/org.apache.dubbo.rpc.Protocol" afterPath="$PROJECT_DIR$/dubbo/dubbo-plugin/dubbo-qos/src/main/resources/META-INF/dubbo/internal/org.apache.dubbo.rpc.Protocol" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dubbo/dubbo-plugin/dubbo-qos/src/test/java/org/apache/dubbo/qos/command/DefaultCommandExecutorTest.java" afterPath="$PROJECT_DIR$/dubbo/dubbo-plugin/dubbo-qos/src/test/java/org/apache/dubbo/qos/command/DefaultCommandExecutorTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dubbo/dubbo-plugin/dubbo-qos/src/test/java/org/apache/dubbo/qos/legacy/InvokerTelnetHandlerTest.java" afterPath="$PROJECT_DIR$/dubbo/dubbo-plugin/dubbo-qos/src/test/java/org/apache/dubbo/qos/legacy/InvokerTelnetHandlerTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dubbo/dubbo-plugin/dubbo-qos/src/test/java/org/apache/dubbo/qos/legacy/PortTelnetHandlerTest.java" afterPath="$PROJECT_DIR$/dubbo/dubbo-plugin/dubbo-qos/src/test/java/org/apache/dubbo/qos/legacy/PortTelnetHandlerTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dubbo/dubbo-registry/dubbo-registry-api/src/main/java/org/apache/dubbo/registry/RegistryService.java" afterPath="$PROJECT_DIR$/dubbo/dubbo-registry/dubbo-registry-api/src/main/java/org/apache/dubbo/registry/RegistryService.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dubbo/dubbo-registry/dubbo-registry-api/src/main/java/org/apache/dubbo/registry/client/FileSystemServiceDiscovery.java" afterPath="$PROJECT_DIR$/dubbo/dubbo-registry/dubbo-registry-api/src/main/java/org/apache/dubbo/registry/client/FileSystemServiceDiscovery.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dubbo/dubbo-registry/dubbo-registry-api/src/main/java/org/apache/dubbo/registry/client/metadata/ServiceInstanceMetadataUtils.java" afterPath="$PROJECT_DIR$/dubbo/dubbo-registry/dubbo-registry-api/src/main/java/org/apache/dubbo/registry/client/metadata/ServiceInstanceMetadataUtils.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dubbo/dubbo-registry/dubbo-registry-api/src/main/java/org/apache/dubbo/registry/integration/RegistryDirectory.java" afterPath="$PROJECT_DIR$/dubbo/dubbo-registry/dubbo-registry-api/src/main/java/org/apache/dubbo/registry/integration/RegistryDirectory.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dubbo/dubbo-registry/dubbo-registry-api/src/main/java/org/apache/dubbo/registry/integration/RegistryProtocol.java" afterPath="$PROJECT_DIR$/dubbo/dubbo-registry/dubbo-registry-api/src/main/java/org/apache/dubbo/registry/integration/RegistryProtocol.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dubbo/dubbo-registry/dubbo-registry-api/src/main/resources/META-INF/dubbo/internal/org.apache.dubbo.registry.client.ServiceDiscoveryFactory" afterPath="$PROJECT_DIR$/dubbo/dubbo-registry/dubbo-registry-api/src/main/resources/META-INF/dubbo/internal/org.apache.dubbo.registry.client.ServiceDiscoveryFactory" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dubbo/dubbo-registry/dubbo-registry-api/src/main/resources/META-INF/dubbo/internal/org.apache.dubbo.registry.client.ServiceInstanceCustomizer" afterPath="$PROJECT_DIR$/dubbo/dubbo-registry/dubbo-registry-api/src/main/resources/META-INF/dubbo/internal/org.apache.dubbo.registry.client.ServiceInstanceCustomizer" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dubbo/dubbo-registry/dubbo-registry-api/src/test/java/org/apache/dubbo/registry/PerformanceRegistryTest.java" afterPath="$PROJECT_DIR$/dubbo/dubbo-registry/dubbo-registry-api/src/test/java/org/apache/dubbo/registry/PerformanceRegistryTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dubbo/dubbo-registry/dubbo-registry-api/src/test/java/org/apache/dubbo/registry/RegistryFactoryWrapperTest.java" afterPath="$PROJECT_DIR$/dubbo/dubbo-registry/dubbo-registry-api/src/test/java/org/apache/dubbo/registry/RegistryFactoryWrapperTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dubbo/dubbo-registry/dubbo-registry-api/src/test/java/org/apache/dubbo/registry/client/metadata/ServiceInstanceMetadataUtilsTest.java" afterPath="$PROJECT_DIR$/dubbo/dubbo-registry/dubbo-registry-api/src/test/java/org/apache/dubbo/registry/client/metadata/ServiceInstanceMetadataUtilsTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dubbo/dubbo-registry/dubbo-registry-consul/src/main/java/org/apache/dubbo/registry/consul/ConsulRegistry.java" afterPath="$PROJECT_DIR$/dubbo/dubbo-registry/dubbo-registry-consul/src/main/java/org/apache/dubbo/registry/consul/ConsulRegistry.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dubbo/dubbo-registry/dubbo-registry-default/pom.xml" afterPath="$PROJECT_DIR$/dubbo/dubbo-registry/dubbo-registry-default/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dubbo/dubbo-registry/dubbo-registry-default/src/test/java/org/apache/dubbo/registry/dubbo/RegistryDirectoryTest.java" afterPath="$PROJECT_DIR$/dubbo/dubbo-registry/dubbo-registry-default/src/test/java/org/apache/dubbo/registry/dubbo/RegistryDirectoryTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dubbo/dubbo-registry/dubbo-registry-default/src/test/resources/log4j.xml" afterPath="$PROJECT_DIR$/dubbo/dubbo-registry/dubbo-registry-default/src/test/resources/log4j.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dubbo/dubbo-registry/dubbo-registry-etcd3/src/main/resources/META-INF/dubbo/internal/org.apache.dubbo.registry.client.ServiceDiscovery" afterPath="$PROJECT_DIR$/dubbo/dubbo-registry/dubbo-registry-etcd3/src/main/resources/META-INF/dubbo/internal/org.apache.dubbo.registry.client.ServiceDiscovery" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dubbo/dubbo-registry/dubbo-registry-multicast/src/test/java/org/apache/dubbo/registry/multicast/MulticastRegistryTest.java" afterPath="$PROJECT_DIR$/dubbo/dubbo-registry/dubbo-registry-multicast/src/test/java/org/apache/dubbo/registry/multicast/MulticastRegistryTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dubbo/dubbo-registry/dubbo-registry-multiple/src/main/resources/META-INF/dubbo/internal/org.apache.dubbo.registry.RegistryFactory" afterPath="$PROJECT_DIR$/dubbo/dubbo-registry/dubbo-registry-multiple/src/main/resources/META-INF/dubbo/internal/org.apache.dubbo.registry.RegistryFactory" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dubbo/dubbo-registry/dubbo-registry-multiple/src/test/java/org/apache/dubbo/registry/multiple/MultipleRegistry2S2RTest.java" afterPath="$PROJECT_DIR$/dubbo/dubbo-registry/dubbo-registry-multiple/src/test/java/org/apache/dubbo/registry/multiple/MultipleRegistry2S2RTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dubbo/dubbo-registry/dubbo-registry-nacos/src/main/resources/META-INF/dubbo/internal/org.apache.dubbo.registry.client.ServiceDiscovery" afterPath="$PROJECT_DIR$/dubbo/dubbo-registry/dubbo-registry-nacos/src/main/resources/META-INF/dubbo/internal/org.apache.dubbo.registry.client.ServiceDiscovery" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dubbo/dubbo-registry/dubbo-registry-zookeeper/src/main/resources/META-INF/dubbo/internal/org.apache.dubbo.registry.RegistryFactory" afterPath="$PROJECT_DIR$/dubbo/dubbo-registry/dubbo-registry-zookeeper/src/main/resources/META-INF/dubbo/internal/org.apache.dubbo.registry.RegistryFactory" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dubbo/dubbo-registry/dubbo-registry-zookeeper/src/test/java/org/apache/dubbo/registry/zookeeper/ZookeeperRegistryTest.java" afterPath="$PROJECT_DIR$/dubbo/dubbo-registry/dubbo-registry-zookeeper/src/test/java/org/apache/dubbo/registry/zookeeper/ZookeeperRegistryTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dubbo/dubbo-remoting/dubbo-remoting-api/pom.xml" afterPath="$PROJECT_DIR$/dubbo/dubbo-remoting/dubbo-remoting-api/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dubbo/dubbo-remoting/dubbo-remoting-api/src/main/java/org/apache/dubbo/remoting/transport/AbstractClient.java" afterPath="$PROJECT_DIR$/dubbo/dubbo-remoting/dubbo-remoting-api/src/main/java/org/apache/dubbo/remoting/transport/AbstractClient.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dubbo/dubbo-remoting/dubbo-remoting-api/src/test/java/org/apache/dubbo/remoting/ChanelHandlerTest.java" afterPath="$PROJECT_DIR$/dubbo/dubbo-remoting/dubbo-remoting-api/src/test/java/org/apache/dubbo/remoting/ChanelHandlerTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dubbo/dubbo-remoting/dubbo-remoting-api/src/test/java/org/apache/dubbo/remoting/codec/TelnetCodecTest.java" afterPath="$PROJECT_DIR$/dubbo/dubbo-remoting/dubbo-remoting-api/src/test/java/org/apache/dubbo/remoting/codec/TelnetCodecTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dubbo/dubbo-remoting/dubbo-remoting-etcd3/src/test/java/org/apache/dubbo/remoting/etcd/jetcd/JEtcdClientWrapperTest.java" afterPath="$PROJECT_DIR$/dubbo/dubbo-remoting/dubbo-remoting-etcd3/src/test/java/org/apache/dubbo/remoting/etcd/jetcd/JEtcdClientWrapperTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dubbo/dubbo-remoting/dubbo-remoting-http/src/main/java/org/apache/dubbo/remoting/http/jetty/JettyHttpServer.java" afterPath="$PROJECT_DIR$/dubbo/dubbo-remoting/dubbo-remoting-http/src/main/java/org/apache/dubbo/remoting/http/jetty/JettyHttpServer.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dubbo/dubbo-remoting/dubbo-remoting-netty/pom.xml" afterPath="$PROJECT_DIR$/dubbo/dubbo-remoting/dubbo-remoting-netty/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dubbo/dubbo-remoting/dubbo-remoting-netty/src/main/java/org/apache/dubbo/remoting/transport/netty/NettyChannel.java" afterPath="$PROJECT_DIR$/dubbo/dubbo-remoting/dubbo-remoting-netty/src/main/java/org/apache/dubbo/remoting/transport/netty/NettyChannel.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dubbo/dubbo-remoting/dubbo-remoting-netty/src/main/java/org/apache/dubbo/remoting/transport/netty/NettyClient.java" afterPath="$PROJECT_DIR$/dubbo/dubbo-remoting/dubbo-remoting-netty/src/main/java/org/apache/dubbo/remoting/transport/netty/NettyClient.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dubbo/dubbo-remoting/dubbo-remoting-netty/src/test/resources/log4j.xml" afterPath="$PROJECT_DIR$/dubbo/dubbo-remoting/dubbo-remoting-netty/src/test/resources/log4j.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dubbo/dubbo-remoting/dubbo-remoting-netty4/pom.xml" afterPath="$PROJECT_DIR$/dubbo/dubbo-remoting/dubbo-remoting-netty4/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dubbo/dubbo-remoting/dubbo-remoting-netty4/src/main/java/org/apache/dubbo/remoting/transport/netty4/NettyChannel.java" afterPath="$PROJECT_DIR$/dubbo/dubbo-remoting/dubbo-remoting-netty4/src/main/java/org/apache/dubbo/remoting/transport/netty4/NettyChannel.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dubbo/dubbo-remoting/dubbo-remoting-netty4/src/test/java/org/apache/dubbo/remoting/transport/netty4/ReplierDispatcherTest.java" afterPath="$PROJECT_DIR$/dubbo/dubbo-remoting/dubbo-remoting-netty4/src/test/java/org/apache/dubbo/remoting/transport/netty4/ReplierDispatcherTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dubbo/dubbo-remoting/dubbo-remoting-p2p/src/test/java/org/apache/dubbo/remoting/p2p/exchange/support/MulticastExchangeNetworkerTest.java" afterPath="$PROJECT_DIR$/dubbo/dubbo-remoting/dubbo-remoting-p2p/src/test/java/org/apache/dubbo/remoting/p2p/exchange/support/MulticastExchangeNetworkerTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dubbo/dubbo-remoting/dubbo-remoting-p2p/src/test/java/org/apache/dubbo/remoting/p2p/support/MulticastNetworkerTest.java" afterPath="$PROJECT_DIR$/dubbo/dubbo-remoting/dubbo-remoting-p2p/src/test/java/org/apache/dubbo/remoting/p2p/support/MulticastNetworkerTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dubbo/dubbo-remoting/dubbo-remoting-zookeeper/pom.xml" afterPath="$PROJECT_DIR$/dubbo/dubbo-remoting/dubbo-remoting-zookeeper/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dubbo/dubbo-rpc/dubbo-rpc-api/pom.xml" afterPath="$PROJECT_DIR$/dubbo/dubbo-rpc/dubbo-rpc-api/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dubbo/dubbo-rpc/dubbo-rpc-api/src/main/java/org/apache/dubbo/rpc/Filter.java" afterPath="$PROJECT_DIR$/dubbo/dubbo-rpc/dubbo-rpc-api/src/main/java/org/apache/dubbo/rpc/Filter.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dubbo/dubbo-rpc/dubbo-rpc-api/src/main/java/org/apache/dubbo/rpc/RpcConstants.java" afterPath="$PROJECT_DIR$/dubbo/dubbo-rpc/dubbo-rpc-api/src/main/java/org/apache/dubbo/rpc/RpcConstants.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dubbo/dubbo-rpc/dubbo-rpc-api/src/main/java/org/apache/dubbo/rpc/filter/AccessLogFilter.java" afterPath="$PROJECT_DIR$/dubbo/dubbo-rpc/dubbo-rpc-api/src/main/java/org/apache/dubbo/rpc/filter/AccessLogFilter.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dubbo/dubbo-rpc/dubbo-rpc-api/src/main/java/org/apache/dubbo/rpc/filter/ActiveLimitFilter.java" afterPath="$PROJECT_DIR$/dubbo/dubbo-rpc/dubbo-rpc-api/src/main/java/org/apache/dubbo/rpc/filter/ActiveLimitFilter.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dubbo/dubbo-rpc/dubbo-rpc-api/src/main/java/org/apache/dubbo/rpc/protocol/AbstractInvoker.java" afterPath="$PROJECT_DIR$/dubbo/dubbo-rpc/dubbo-rpc-api/src/main/java/org/apache/dubbo/rpc/protocol/AbstractInvoker.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dubbo/dubbo-rpc/dubbo-rpc-api/src/test/java/org/apache/dubbo/rpc/filter/AccessLogFilterTest.java" afterPath="$PROJECT_DIR$/dubbo/dubbo-rpc/dubbo-rpc-api/src/test/java/org/apache/dubbo/rpc/filter/AccessLogFilterTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dubbo/dubbo-rpc/dubbo-rpc-api/src/test/java/org/apache/dubbo/rpc/filter/ExecuteLimitFilterTest.java" afterPath="$PROJECT_DIR$/dubbo/dubbo-rpc/dubbo-rpc-api/src/test/java/org/apache/dubbo/rpc/filter/ExecuteLimitFilterTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dubbo/dubbo-rpc/dubbo-rpc-api/src/test/java/org/apache/dubbo/rpc/filter/GenericImplFilterTest.java" afterPath="$PROJECT_DIR$/dubbo/dubbo-rpc/dubbo-rpc-api/src/test/java/org/apache/dubbo/rpc/filter/GenericImplFilterTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dubbo/dubbo-rpc/dubbo-rpc-api/src/test/resources/log4j.xml" afterPath="$PROJECT_DIR$/dubbo/dubbo-rpc/dubbo-rpc-api/src/test/resources/log4j.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dubbo/dubbo-rpc/dubbo-rpc-dubbo/pom.xml" afterPath="$PROJECT_DIR$/dubbo/dubbo-rpc/dubbo-rpc-dubbo/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dubbo/dubbo-rpc/dubbo-rpc-dubbo/src/main/java/org/apache/dubbo/rpc/protocol/dubbo/LazyConnectExchangeClient.java" afterPath="$PROJECT_DIR$/dubbo/dubbo-rpc/dubbo-rpc-dubbo/src/main/java/org/apache/dubbo/rpc/protocol/dubbo/LazyConnectExchangeClient.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dubbo/dubbo-rpc/dubbo-rpc-dubbo/src/test/java/org/apache/dubbo/rpc/protocol/dubbo/DubboLazyConnectTest.java" afterPath="$PROJECT_DIR$/dubbo/dubbo-rpc/dubbo-rpc-dubbo/src/test/java/org/apache/dubbo/rpc/protocol/dubbo/DubboLazyConnectTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dubbo/dubbo-rpc/dubbo-rpc-dubbo/src/test/java/org/apache/dubbo/rpc/protocol/dubbo/DubboProtocolTest.java" afterPath="$PROJECT_DIR$/dubbo/dubbo-rpc/dubbo-rpc-dubbo/src/test/java/org/apache/dubbo/rpc/protocol/dubbo/DubboProtocolTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dubbo/dubbo-rpc/dubbo-rpc-dubbo/src/test/java/org/apache/dubbo/rpc/protocol/dubbo/FutureFilterTest.java" afterPath="$PROJECT_DIR$/dubbo/dubbo-rpc/dubbo-rpc-dubbo/src/test/java/org/apache/dubbo/rpc/protocol/dubbo/FutureFilterTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dubbo/dubbo-rpc/dubbo-rpc-dubbo/src/test/java/org/apache/dubbo/rpc/protocol/dubbo/MultiThreadTest.java" afterPath="$PROJECT_DIR$/dubbo/dubbo-rpc/dubbo-rpc-dubbo/src/test/java/org/apache/dubbo/rpc/protocol/dubbo/MultiThreadTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dubbo/dubbo-rpc/dubbo-rpc-dubbo/src/test/java/org/apache/dubbo/rpc/protocol/dubbo/ReferenceCountExchangeClientTest.java" afterPath="$PROJECT_DIR$/dubbo/dubbo-rpc/dubbo-rpc-dubbo/src/test/java/org/apache/dubbo/rpc/protocol/dubbo/ReferenceCountExchangeClientTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dubbo/dubbo-rpc/dubbo-rpc-dubbo/src/test/java/org/apache/dubbo/rpc/protocol/dubbo/decode/DubboTelnetDecodeTest.java" afterPath="$PROJECT_DIR$/dubbo/dubbo-rpc/dubbo-rpc-dubbo/src/test/java/org/apache/dubbo/rpc/protocol/dubbo/decode/DubboTelnetDecodeTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dubbo/dubbo-rpc/dubbo-rpc-dubbo/src/test/resources/META-INF/dubbo/internal/org.apache.dubbo.remoting.telnet.TelnetHandler" afterPath="$PROJECT_DIR$/dubbo/dubbo-rpc/dubbo-rpc-dubbo/src/test/resources/META-INF/dubbo/internal/org.apache.dubbo.remoting.telnet.TelnetHandler" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dubbo/dubbo-rpc/dubbo-rpc-dubbo/src/test/resources/log4j.xml" afterPath="$PROJECT_DIR$/dubbo/dubbo-rpc/dubbo-rpc-dubbo/src/test/resources/log4j.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dubbo/dubbo-rpc/dubbo-rpc-http/pom.xml" afterPath="$PROJECT_DIR$/dubbo/dubbo-rpc/dubbo-rpc-http/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dubbo/dubbo-rpc/dubbo-rpc-http/src/main/resources/META-INF/dubbo/internal/org.apache.dubbo.rpc.Protocol" afterPath="$PROJECT_DIR$/dubbo/dubbo-rpc/dubbo-rpc-http/src/main/resources/META-INF/dubbo/internal/org.apache.dubbo.rpc.Protocol" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dubbo/dubbo-rpc/dubbo-rpc-injvm/src/test/java/org/apache/dubbo/rpc/protocol/injvm/ProtocolTest.java" afterPath="$PROJECT_DIR$/dubbo/dubbo-rpc/dubbo-rpc-injvm/src/test/java/org/apache/dubbo/rpc/protocol/injvm/ProtocolTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dubbo/dubbo-rpc/dubbo-rpc-memcached/pom.xml" afterPath="$PROJECT_DIR$/dubbo/dubbo-rpc/dubbo-rpc-memcached/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dubbo/dubbo-rpc/dubbo-rpc-native-thrift/src/test/idls/UserService.thrift" afterPath="$PROJECT_DIR$/dubbo/dubbo-rpc/dubbo-rpc-native-thrift/src/test/idls/UserService.thrift" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dubbo/dubbo-rpc/dubbo-rpc-redis/pom.xml" afterPath="$PROJECT_DIR$/dubbo/dubbo-rpc/dubbo-rpc-redis/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dubbo/dubbo-rpc/dubbo-rpc-rest/src/main/java/org/apache/dubbo/rpc/protocol/rest/RestProtocol.java" afterPath="$PROJECT_DIR$/dubbo/dubbo-rpc/dubbo-rpc-rest/src/main/java/org/apache/dubbo/rpc/protocol/rest/RestProtocol.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dubbo/dubbo-rpc/dubbo-rpc-rest/src/test/java/org/apache/dubbo/rpc/protocol/rest/RestProtocolTest.java" afterPath="$PROJECT_DIR$/dubbo/dubbo-rpc/dubbo-rpc-rest/src/test/java/org/apache/dubbo/rpc/protocol/rest/RestProtocolTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dubbo/dubbo-rpc/dubbo-rpc-rmi/src/test/java/org/apache/dubbo/rpc/protocol/rmi/RmiProtocolTest.java" afterPath="$PROJECT_DIR$/dubbo/dubbo-rpc/dubbo-rpc-rmi/src/test/java/org/apache/dubbo/rpc/protocol/rmi/RmiProtocolTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dubbo/dubbo-rpc/dubbo-rpc-thrift/pom.xml" afterPath="$PROJECT_DIR$/dubbo/dubbo-rpc/dubbo-rpc-thrift/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dubbo/dubbo-rpc/dubbo-rpc-thrift/src/main/java/org/apache/dubbo/rpc/protocol/thrift/ThriftProtocol.java" afterPath="$PROJECT_DIR$/dubbo/dubbo-rpc/dubbo-rpc-thrift/src/main/java/org/apache/dubbo/rpc/protocol/thrift/ThriftProtocol.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dubbo/dubbo-rpc/dubbo-rpc-thrift/src/main/resources/META-INF/dubbo/internal/org.apache.dubbo.remoting.Codec2" afterPath="$PROJECT_DIR$/dubbo/dubbo-rpc/dubbo-rpc-thrift/src/main/resources/META-INF/dubbo/internal/org.apache.dubbo.remoting.Codec2" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dubbo/dubbo-rpc/dubbo-rpc-thrift/src/main/resources/META-INF/dubbo/internal/org.apache.dubbo.rpc.Protocol" afterPath="$PROJECT_DIR$/dubbo/dubbo-rpc/dubbo-rpc-thrift/src/main/resources/META-INF/dubbo/internal/org.apache.dubbo.rpc.Protocol" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dubbo/dubbo-rpc/dubbo-rpc-webservice/src/main/resources/META-INF/dubbo/internal/org.apache.dubbo.rpc.Protocol" afterPath="$PROJECT_DIR$/dubbo/dubbo-rpc/dubbo-rpc-webservice/src/main/resources/META-INF/dubbo/internal/org.apache.dubbo.rpc.Protocol" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dubbo/dubbo-serialization/dubbo-serialization-fastjson/pom.xml" afterPath="$PROJECT_DIR$/dubbo/dubbo-serialization/dubbo-serialization-fastjson/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dubbo/dubbo-serialization/dubbo-serialization-fst/pom.xml" afterPath="$PROJECT_DIR$/dubbo/dubbo-serialization/dubbo-serialization-fst/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dubbo/dubbo-serialization/dubbo-serialization-hessian2/src/main/resources/META-INF/dubbo/internal/org.apache.dubbo.common.serialize.Serialization" afterPath="$PROJECT_DIR$/dubbo/dubbo-serialization/dubbo-serialization-hessian2/src/main/resources/META-INF/dubbo/internal/org.apache.dubbo.common.serialize.Serialization" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dubbo/dubbo-serialization/dubbo-serialization-jdk/pom.xml" afterPath="$PROJECT_DIR$/dubbo/dubbo-serialization/dubbo-serialization-jdk/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dubbo/dubbo-serialization/dubbo-serialization-jdk/src/main/java/org/apache/dubbo/common/serialize/java/CompactedJavaSerialization.java" afterPath="$PROJECT_DIR$/dubbo/dubbo-serialization/dubbo-serialization-jdk/src/main/java/org/apache/dubbo/common/serialize/java/CompactedJavaSerialization.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dubbo/dubbo-serialization/dubbo-serialization-jdk/src/main/java/org/apache/dubbo/common/serialize/java/JavaSerialization.java" afterPath="$PROJECT_DIR$/dubbo/dubbo-serialization/dubbo-serialization-jdk/src/main/java/org/apache/dubbo/common/serialize/java/JavaSerialization.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dubbo/dubbo-serialization/dubbo-serialization-protobuf/src/main/proto/MapValue.proto" afterPath="$PROJECT_DIR$/dubbo/dubbo-serialization/dubbo-serialization-protobuf/src/main/proto/MapValue.proto" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dubbo/dubbo-serialization/dubbo-serialization-protostuff/pom.xml" afterPath="$PROJECT_DIR$/dubbo/dubbo-serialization/dubbo-serialization-protostuff/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dubbo/dubbo-serialization/dubbo-serialization-test/pom.xml" afterPath="$PROJECT_DIR$/dubbo/dubbo-serialization/dubbo-serialization-test/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dubbo/dubbo-serialization/dubbo-serialization-test/src/test/java/org/apache/dubbo/common/serialize/protobuf/support/model/GooglePB.java" afterPath="$PROJECT_DIR$/dubbo/dubbo-serialization/dubbo-serialization-test/src/test/java/org/apache/dubbo/common/serialize/protobuf/support/model/GooglePB.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dubbo/dubbo-serialization/dubbo-serialization-test/src/test/resources/log4j.xml" afterPath="$PROJECT_DIR$/dubbo/dubbo-serialization/dubbo-serialization-test/src/test/resources/log4j.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dubbo/pom.xml" afterPath="$PROJECT_DIR$/dubbo/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spring-cloud-alibaba-learn/.idea/compiler.xml" afterPath="$PROJECT_DIR$/spring-cloud-alibaba-learn/.idea/compiler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spring-cloud-alibaba-learn/.idea/encodings.xml" afterPath="$PROJECT_DIR$/spring-cloud-alibaba-learn/.idea/encodings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spring-cloud-alibaba-learn/.idea/inspectionProfiles/Project_Default.xml" afterPath="$PROJECT_DIR$/spring-cloud-alibaba-learn/.idea/inspectionProfiles/Project_Default.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spring-cloud-alibaba-learn/.idea/misc.xml" afterPath="$PROJECT_DIR$/spring-cloud-alibaba-learn/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spring-cloud-alibaba-learn/.idea/vcs.xml" afterPath="$PROJECT_DIR$/spring-cloud-alibaba-learn/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spring-cloud-alibaba-learn/.idea/workspace.xml" afterPath="$PROJECT_DIR$/spring-cloud-alibaba-learn/.idea/workspace.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/spring-cloud-alibaba-learn/.idea/vcs.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/spring-cloud-alibaba-learn/.idea/workspace.xml" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spring-cloud-alibaba-learn/pom.xml" afterPath="$PROJECT_DIR$/spring-cloud-alibaba-learn/pom.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spring-cloud-alibaba-learn/spring-cloud-alibaba-learn.iml" afterPath="$PROJECT_DIR$/spring-cloud-alibaba-learn/spring-cloud-alibaba-learn.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spring-cloud-alibaba-learn/src/main/java/com/springcloud/Application.java" afterPath="$PROJECT_DIR$/spring-cloud-alibaba-learn/src/main/java/com/springcloud/Application.java" />
@@ -385,11 +177,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="15">
-              <caret line="18" column="30" lean-forward="false" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
+              <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -428,8 +220,8 @@
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/spring-cloud-alibaba-learn/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="29" column="20" lean-forward="false" selection-start-line="29" selection-start-column="20" selection-end-line="29" selection-end-column="20" />
+            <state relative-caret-position="225">
+              <caret line="27" column="20" lean-forward="true" selection-start-line="27" selection-start-column="20" selection-end-line="27" selection-end-column="20" />
               <folding />
             </state>
           </provider>
@@ -455,11 +247,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DiscoveryController.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="DiscoveryController.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/spring-boot-nacos-discovery/src/main/java/com/springboot/nacosdiscovery/DiscoveryController.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="345">
-              <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+              <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -583,9 +375,9 @@
         <option value="$PROJECT_DIR$/spring-boot-nacos-discovery/src/main/resources/application.properties" />
         <option value="$PROJECT_DIR$/spring-boot-nacos-discovery/src/main/java/com/springboot/nacos/DiscoveryController.java" />
         <option value="$PROJECT_DIR$/spring-boot-nacos-discovery/src/main/java/com/springboot/nacos/api/DiscoveryController.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/spring-boot-nacos-discovery/src/main/java/com/springboot/nacosdiscovery/DiscoveryController.java" />
         <option value="$PROJECT_DIR$/spring-boot-nacos-discovery/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>
   </component>
@@ -636,6 +428,20 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="alibaba-learn-all" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="alibaba-learn-all" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="alibaba-learn-all" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="spring-cloud-dubbo-demo" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -1360,7 +1166,7 @@
       <workItem from="1647227776406" duration="11755000" />
       <workItem from="1647333504174" duration="23425000" />
       <workItem from="1647788817564" duration="12074000" />
-      <workItem from="1647943340795" duration="7388000" />
+      <workItem from="1647943340795" duration="7555000" />
     </task>
     <servers />
   </component>
@@ -1370,7 +1176,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="59758000" />
+    <option name="totallyTimeSpent" value="59925000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -1398,7 +1204,7 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33582088" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.35696518" sideWeight="0.49713877" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26895565" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26895565" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297568" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -1851,14 +1657,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="18" column="30" lean-forward="false" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="uml://MAVEN/com.springcloud.ljm:spring-boot-nacos-discovery:1.0-SNAPSHOT">
       <provider selected="true" editor-type-id="UmlEditorProvider">
         <state>
@@ -1925,14 +1723,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spring-cloud-alibaba-learn/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="29" column="20" lean-forward="false" selection-start-line="29" selection-start-column="20" selection-end-line="29" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/work_soft/maven/apache-maven-3.3.9/com/alibaba/nacos/nacos-api/1.1.1/nacos-api-1.1.1.pom">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1952,10 +1742,26 @@
     <entry file="file://$PROJECT_DIR$/spring-boot-nacos-discovery/src/main/java/com/springboot/nacosdiscovery/DiscoveryController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
-          <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+          <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-alibaba-learn/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="27" column="20" lean-forward="true" selection-start-line="27" selection-start-column="20" selection-end-line="27" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
