@@ -160,10 +160,15 @@
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="18" column="30" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
+            <state relative-caret-position="275">
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="spring-cloud-dependencies-Greenwich.SR2.pom" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/work_soft/maven/apache-maven-3.3.9/org/springframework/cloud/spring-cloud-dependencies/Greenwich.SR2/spring-cloud-dependencies-Greenwich.SR2.pom">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
@@ -175,20 +180,29 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spring-boot-nacos-discovery/pom.xml">
+      <file leaf-file-name="spring-boot-starter-web-2.1.11.RELEASE.pom" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/work_soft/maven/apache-maven-3.3.9/org/springframework/boot/spring-boot-starter-web/2.1.11.RELEASE/spring-boot-starter-web-2.1.11.RELEASE.pom">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="250">
-              <caret line="22" column="36" lean-forward="true" selection-start-line="22" selection-start-column="36" selection-end-line="22" selection-end-column="36" />
+            <state relative-caret-position="550">
+              <caret line="22" column="37" selection-start-line="22" selection-start-column="37" selection-end-line="22" selection-end-column="37" />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spring-cloud-dubbo-demo/spring-cloud-dubbo-api/pom.xml">
+        <entry file="file://$PROJECT_DIR$/spring-boot-nacos-discovery/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="440">
-              <caret line="21" column="38" selection-start-line="21" selection-start-column="38" selection-end-line="21" selection-end-column="38" />
+            <state relative-caret-position="210">
+              <caret line="20" column="47" selection-start-line="20" selection-start-column="47" selection-end-line="20" selection-end-column="47" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="application.properties" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spring-boot-nacos-discovery/src/main/resource/application.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="28" lean-forward="true" selection-start-column="28" selection-end-column="42" />
             </state>
           </provider>
         </entry>
@@ -196,10 +210,24 @@
       <file leaf-file-name="DiscoveryController.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/spring-boot-nacos-discovery/src/main/java/com/springboot/nacosdiscovery/DiscoveryController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="279">
-              <caret line="22" column="24" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
+            <state relative-caret-position="274">
+              <caret line="25" column="1" lean-forward="true" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NacosDiscoveryApplication.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spring-boot-nacos-discovery/src/main/java/com/springboot/nacosdiscovery/NacosDiscoveryApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="299">
+              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#334#335#0" expanded="true" />
+                <element signature="e#369#370#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -212,8 +240,8 @@
       <list>
         <option value="XSLT Stylesheet" />
         <option value="JavaFXApplication" />
-        <option value="spring-beans.schema" />
         <option value="Class" />
+        <option value="spring-beans.schema" />
       </list>
     </option>
   </component>
@@ -258,8 +286,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/spring-boot-dubbo/spring-boot-dubbo-interface/src/main/java/com/springboot/dubbo/IHelloService.java" />
-        <option value="$PROJECT_DIR$/spring-boot-dubbo/spring-boot-dubbo-provider/src/main/resources/applicationProperties.xml" />
         <option value="$PROJECT_DIR$/spring-boot-dubbo/spring-boot-dubbo-provider/src/main/resources/application.properties" />
         <option value="$PROJECT_DIR$/spring-boot-dubbo/spring-boot-dubbo-provider/src/main/java/com/springboot/dubbo/provider/HelloServiceImpl.java" />
         <option value="$PROJECT_DIR$/spring-boot-dubbo/spring-boot-dubbo-provider/src/main/java/com/springboot/dubbo/provider/ProviderApplication.java" />
@@ -306,9 +332,11 @@
         <option value="$PROJECT_DIR$/spring-boot-nacos-discovery/src/main/resources/application.properties" />
         <option value="$PROJECT_DIR$/spring-boot-nacos-discovery/src/main/java/com/springboot/nacos/DiscoveryController.java" />
         <option value="$PROJECT_DIR$/spring-boot-nacos-discovery/src/main/java/com/springboot/nacos/api/DiscoveryController.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/spring-boot-nacos-discovery/pom.xml" />
         <option value="$PROJECT_DIR$/spring-boot-nacos-discovery/src/main/java/com/springboot/nacosdiscovery/DiscoveryController.java" />
+        <option value="$PROJECT_DIR$/spring-boot-nacos-discovery/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-nacos-discovery/src/main/java/com/springboot/nacosdiscovery/NacosDiscoveryApplication.java" />
+        <option value="$PROJECT_DIR$/spring-boot-nacos-discovery/src/main/resource/application.properties" />
       </list>
     </option>
   </component>
@@ -334,6 +362,8 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-35" />
+    <option name="y" value="272" />
     <option name="width" value="1920" />
     <option name="height" value="1080" />
   </component>
@@ -342,6 +372,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -387,21 +418,17 @@
             <path>
               <item name="alibaba-learn-all" type="b2602c69:ProjectViewProjectNode" />
               <item name="alibaba-learn-all" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-cloud-dubbo-demo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="alibaba-learn-all" type="b2602c69:ProjectViewProjectNode" />
-              <item name="alibaba-learn-all" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-cloud-dubbo-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-cloud-dubbo-api" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-boot-nacos-discovery" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resource" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="AndroidView" />
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -411,12 +438,11 @@
     <property name="editor.config.accepted" value="true" />
     <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
     <property name="js.eslint.eslintPackage" value="" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path" value="node" />
-    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -443,20 +469,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.Application">
+  <component name="RunManager" selected="Spring Boot.NacosDiscoveryApplication">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-    </configuration>
-    <configuration name="ApiApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.springboot.dubbo.api.ApiApplication" />
-      <module name="spring-boot-dubbo-api" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.springboot.dubbo.api.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -610,6 +625,16 @@
         </pattern>
       </extension>
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.springcloud.Application" />
+    </configuration>
+    <configuration name="NacosDiscoveryApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="spring-boot-nacos-discovery" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.springboot.nacosdiscovery.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.springboot.nacosdiscovery.NacosDiscoveryApplication" />
     </configuration>
     <configuration name="SpringCloudDubboApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
       <module name="spring-cloud-dubbo-api" />
@@ -802,19 +827,19 @@
       <option name="_new_targetType" value="&quot;PATH&quot;" />
     </configuration>
     <list>
-      <item itemvalue="Application.ApiApplication" />
       <item itemvalue="Spring Boot.SpringCloudDubboProviderApplication" />
       <item itemvalue="Spring Boot.SpringCloudDubboApplication" />
       <item itemvalue="JUnit.HessianProtocolTest.testHessianProtocol" />
       <item itemvalue="Spring Boot.Application" />
+      <item itemvalue="Spring Boot.NacosDiscoveryApplication" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Spring Boot.NacosDiscoveryApplication" />
         <item itemvalue="Spring Boot.Application" />
         <item itemvalue="Spring Boot.SpringCloudDubboApplication" />
         <item itemvalue="Spring Boot.SpringCloudDubboProviderApplication" />
         <item itemvalue="JUnit.HessianProtocolTest.testHessianProtocol" />
-        <item itemvalue="Application.ApiApplication" />
       </list>
     </recent_temporary>
   </component>
@@ -832,8 +857,8 @@
       <workItem from="1647227776406" duration="11755000" />
       <workItem from="1647333504174" duration="23425000" />
       <workItem from="1647788817564" duration="12074000" />
-      <workItem from="1647943340795" duration="6505000" />
-      <workItem from="1648017493472" duration="583000" />
+      <workItem from="1647943340795" duration="7555000" />
+      <workItem from="1648018549394" duration="1099000" />
     </task>
     <servers />
   </component>
@@ -843,7 +868,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="59458000" />
+    <option name="totallyTimeSpent" value="61024000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -859,8 +884,9 @@
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.24964234" />
       <window_info id="UI Designer" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.37437811" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.4736287" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.329602" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="bottom" id="Java Enterprise" order="8" />
@@ -868,8 +894,8 @@
       <window_info anchor="bottom" id="Run" order="2" weight="0.33582088" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Spring" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49713877" visible="true" weight="0.3892405" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.271855" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49713877" weight="0.3892405" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.271855" />
       <window_info anchor="right" id="Bean Validation" order="3" weight="0.3297568" />
       <window_info id="Web" order="6" sideWeight="0.35373133" side_tool="true" weight="0.26279318" />
       <window_info anchor="right" id="Theme Preview" order="3" />
@@ -882,7 +908,6 @@
       <window_info anchor="right" id="SciView" order="0" weight="0.32995737" />
       <window_info anchor="right" id="Properties" order="3" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.329602" />
       <window_info anchor="bottom" id="Find" order="1" visible="true" weight="0.26119402" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -992,8 +1017,14 @@
           <properties />
           <option name="timeStamp" value="123" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/spring-boot-nacos-discovery/src/main/java/com/springboot/nacosdiscovery/DiscoveryController.java</url>
+          <line>23</line>
+          <properties />
+          <option name="timeStamp" value="124" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="124" />
+      <option name="time" value="125" />
     </breakpoint-manager>
   </component>
   <component name="antWorkspaceConfiguration">
@@ -1001,16 +1032,56 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$USER_HOME$/work_soft/maven/apache-maven-3.3.9/org/apache/dubbo/dubbo/2.7.3/dubbo-2.7.3.jar!/org/apache/dubbo/config/spring/util/BeanRegistrar.class" />
-    <entry file="jar://$USER_HOME$/work_soft/maven/apache-maven-3.3.9/org/springframework/spring-beans/5.1.12.RELEASE/spring-beans-5.1.12.RELEASE.jar!/org/springframework/beans/factory/config/BeanFactoryPostProcessor.class" />
-    <entry file="jar://$USER_HOME$/work_soft/maven/apache-maven-3.3.9/org/springframework/spring-beans/5.1.12.RELEASE/spring-beans-5.1.12.RELEASE.jar!/org/springframework/beans/factory/support/BeanDefinitionRegistryPostProcessor.class" />
+    <entry file="jar://$USER_HOME$/work_soft/maven/apache-maven-3.3.9/org/springframework/spring-beans/5.1.12.RELEASE/spring-beans-5.1.12.RELEASE.jar!/org/springframework/beans/factory/support/BeanDefinitionRegistryPostProcessor.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="11" column="76" selection-start-line="11" selection-start-column="76" selection-end-line="11" selection-end-column="76" />
+        </state>
+      </provider>
+    </entry>
     <entry file="jar://$USER_HOME$/work_soft/maven/apache-maven-3.3.9/org/springframework/spring-context/5.2.2.RELEASE/spring-context-5.2.2.RELEASE-sources.jar!/org/springframework/context/support/PostProcessorRegistrationDelegate.java" />
-    <entry file="jar://$USER_HOME$/work_soft/maven/apache-maven-3.3.9/org/springframework/spring-context/5.1.12.RELEASE/spring-context-5.1.12.RELEASE.jar!/org/springframework/context/support/PostProcessorRegistrationDelegate.class" />
-    <entry file="jar://$USER_HOME$/work_soft/maven/apache-maven-3.3.9/org/springframework/spring-context/5.1.12.RELEASE/spring-context-5.1.12.RELEASE.jar!/org/springframework/context/annotation/ClassPathBeanDefinitionScanner.class" />
-    <entry file="jar://$USER_HOME$/work_soft/maven/apache-maven-3.3.9/org/springframework/spring-context/5.1.12.RELEASE/spring-context-5.1.12.RELEASE.jar!/org/springframework/context/annotation/ClassPathScanningCandidateComponentProvider.class" />
-    <entry file="jar://$USER_HOME$/work_soft/maven/apache-maven-3.3.9/org/springframework/spring-context/5.1.12.RELEASE/spring-context-5.1.12.RELEASE.jar!/org/springframework/context/support/AbstractApplicationContext.class" />
-    <entry file="jar://$USER_HOME$/work_soft/maven/apache-maven-3.3.9/org/springframework/spring-core/5.1.12.RELEASE/spring-core-5.1.12.RELEASE.jar!/org/springframework/core/annotation/AnnotationAttributes.class" />
-    <entry file="jar://$USER_HOME$/work_soft/maven/apache-maven-3.3.9/org/springframework/spring-beans/5.1.12.RELEASE/spring-beans-5.1.12.RELEASE.jar!/org/springframework/beans/factory/support/DefaultListableBeanFactory.class" />
+    <entry file="jar://$USER_HOME$/work_soft/maven/apache-maven-3.3.9/org/springframework/spring-context/5.1.12.RELEASE/spring-context-5.1.12.RELEASE.jar!/org/springframework/context/support/PostProcessorRegistrationDelegate.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="166">
+          <caret line="243" selection-start-line="243" selection-end-line="243" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/work_soft/maven/apache-maven-3.3.9/org/springframework/spring-context/5.1.12.RELEASE/spring-context-5.1.12.RELEASE.jar!/org/springframework/context/annotation/ClassPathBeanDefinitionScanner.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="87" column="16" selection-start-line="87" selection-start-column="16" selection-end-line="87" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/work_soft/maven/apache-maven-3.3.9/org/springframework/spring-context/5.1.12.RELEASE/spring-context-5.1.12.RELEASE.jar!/org/springframework/context/annotation/ClassPathScanningCandidateComponentProvider.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="96" column="23" selection-start-line="96" selection-start-column="23" selection-end-line="96" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/work_soft/maven/apache-maven-3.3.9/org/springframework/spring-context/5.1.12.RELEASE/spring-context-5.1.12.RELEASE.jar!/org/springframework/context/support/AbstractApplicationContext.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="370" selection-start-line="370" selection-end-line="370" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/work_soft/maven/apache-maven-3.3.9/org/springframework/spring-core/5.1.12.RELEASE/spring-core-5.1.12.RELEASE.jar!/org/springframework/core/annotation/AnnotationAttributes.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/work_soft/maven/apache-maven-3.3.9/org/springframework/spring-beans/5.1.12.RELEASE/spring-beans-5.1.12.RELEASE.jar!/org/springframework/beans/factory/support/DefaultListableBeanFactory.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="686" column="16" selection-start-line="686" selection-start-column="16" selection-end-line="686" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/spring-cloud-dubbo-demo/spring-cloud-dubbo-provider/src/main/java/com/springcloud/facade/SpringCloudDubboProviderApplication.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="160">
@@ -1021,7 +1092,13 @@
     <entry file="jar://$USER_HOME$/work_soft/maven/apache-maven-3.3.9/org/apache/dubbo/dubbo/2.7.3/dubbo-2.7.3.jar!/org/apache/dubbo/config/spring/context/annotation/DubboComponentScan.class" />
     <entry file="jar://$USER_HOME$/work_soft/maven/apache-maven-3.3.9/org/apache/dubbo/dubbo/2.7.3/dubbo-2.7.3.jar!/org/apache/dubbo/config/spring/context/annotation/DubboComponentScanRegistrar.class" />
     <entry file="jar://$USER_HOME$/work_soft/maven/apache-maven-3.3.9/org/springframework/spring-beans/5.2.2.RELEASE/spring-beans-5.2.2.RELEASE.jar!/org/springframework/beans/factory/support/DefaultListableBeanFactory.class" />
-    <entry file="jar://$USER_HOME$/work_soft/maven/apache-maven-3.3.9/org/springframework/spring-beans/5.1.12.RELEASE/spring-beans-5.1.12.RELEASE.jar!/org/springframework/beans/factory/support/BeanDefinitionRegistry.class" />
+    <entry file="jar://$USER_HOME$/work_soft/maven/apache-maven-3.3.9/org/springframework/spring-beans/5.1.12.RELEASE/spring-beans-5.1.12.RELEASE.jar!/org/springframework/beans/factory/support/BeanDefinitionRegistry.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="13" column="9" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
     <entry file="jar://$USER_HOME$/work_soft/maven/apache-maven-3.3.9/org/apache/dubbo/dubbo/2.7.3/dubbo-2.7.3.jar!/org/apache/dubbo/config/spring/beans/factory/annotation/ServiceAnnotationBeanPostProcessor.class" />
     <entry file="file://$PROJECT_DIR$/dubbo/dubbo-config/dubbo-config-spring/src/main/java/org/apache/dubbo/config/spring/context/DubboBootstrapApplicationListener.java" />
     <entry file="jar://$USER_HOME$/work_soft/maven/apache-maven-3.3.9/org/apache/dubbo/dubbo/2.7.3/dubbo-2.7.3.jar!/org/apache/dubbo/common/extension/ExtensionLoader.class" />
@@ -1034,7 +1111,13 @@
     <entry file="file://$PROJECT_DIR$/nacos/api/src/main/java/com/alibaba/nacos/api/NacosFactory.java" />
     <entry file="file://$PROJECT_DIR$/nacos/api/src/main/java/com/alibaba/nacos/api/naming/PreservedMetadataKeys.java" />
     <entry file="file://$PROJECT_DIR$/nacos/api/src/main/java/com/alibaba/nacos/api/naming/NamingService.java" />
-    <entry file="jar://$USER_HOME$/work_soft/maven/apache-maven-3.3.9/org/springframework/spring-web/5.1.12.RELEASE/spring-web-5.1.12.RELEASE.jar!/org/springframework/web/bind/annotation/RestController.class" />
+    <entry file="jar://$USER_HOME$/work_soft/maven/apache-maven-3.3.9/org/springframework/spring-web/5.1.12.RELEASE/spring-web-5.1.12.RELEASE.jar!/org/springframework/web/bind/annotation/RestController.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="21" column="29" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/spring-cloud-dubbo-demo/spring-cloud-dubbo-api/src/main/java/com/springcloud/api/HelloController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
@@ -1043,7 +1126,20 @@
       </provider>
     </entry>
     <entry file="file://$USER_HOME$/work_soft/maven/apache-maven-3.3.9/org/springframework/cloud/spring-cloud-starter/2.1.2.RELEASE/spring-cloud-starter-2.1.2.RELEASE.pom" />
-    <entry file="jar://$USER_HOME$/work_soft/maven/apache-maven-3.3.9/org/springframework/boot/spring-boot-autoconfigure/2.1.11.RELEASE/spring-boot-autoconfigure-2.1.11.RELEASE.jar!/org/springframework/boot/autoconfigure/SpringBootApplication.class" />
+    <entry file="jar://$USER_HOME$/work_soft/maven/apache-maven-3.3.9/org/springframework/boot/spring-boot-autoconfigure/2.1.11.RELEASE/spring-boot-autoconfigure-2.1.11.RELEASE.jar!/org/springframework/boot/autoconfigure/SpringBootApplication.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="37" column="18" selection-start-line="37" selection-start-column="18" selection-end-line="37" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-dubbo-demo/spring-cloud-dubbo-api/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="31" column="13" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/spring-cloud-dubbo-demo/spring-cloud-dubbo-api/src/main/java/com/springcloud/api/SpringCloudDubboApplication.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
@@ -1060,14 +1156,15 @@
     <entry file="file://$PROJECT_DIR$/spring-boot-nacos-discovery/src/main/resources/application.properties" />
     <entry file="file://$PROJECT_DIR$/spring-boot-nacos-discovery/src/main/java/com/springboot/nacos/api/SpringBootNacosDiscoveryApplication.java" />
     <entry file="file://$PROJECT_DIR$/spring-boot-nacos-discovery/src/main/java/com/springboot/nacos/api/DiscoveryController.java" />
-    <entry file="file://$USER_HOME$/work_soft/maven/apache-maven-3.3.9/org/springframework/boot/spring-boot-starter-web/2.1.11.RELEASE/spring-boot-starter-web-2.1.11.RELEASE.pom" />
-    <entry file="file://$USER_HOME$/work_soft/maven/apache-maven-3.3.9/org/springframework/cloud/spring-cloud-dependencies/Greenwich.SR2/spring-cloud-dependencies-Greenwich.SR2.pom" />
-    <entry file="file://$PROJECT_DIR$/pom.xml">
+    <entry file="file://$USER_HOME$/work_soft/maven/apache-maven-3.3.9/org/springframework/boot/spring-boot-starter-web/2.1.11.RELEASE/spring-boot-starter-web-2.1.11.RELEASE.pom">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="18" column="30" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
+        <state relative-caret-position="550">
+          <caret line="22" column="37" selection-start-line="22" selection-start-column="37" selection-end-line="22" selection-end-column="37" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/work_soft/maven/apache-maven-3.3.9/org/springframework/cloud/spring-cloud-dependencies/Greenwich.SR2/spring-cloud-dependencies-Greenwich.SR2.pom">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="uml://MAVEN/com.springcloud.ljm:spring-boot-nacos-discovery:1.0-SNAPSHOT">
       <provider selected="true" editor-type-id="UmlEditorProvider">
@@ -1135,26 +1232,45 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spring-cloud-alibaba-learn/pom.xml" />
     <entry file="file://$USER_HOME$/work_soft/maven/apache-maven-3.3.9/com/alibaba/nacos/nacos-api/1.1.1/nacos-api-1.1.1.pom" />
-    <entry file="file://$PROJECT_DIR$/spring-boot-nacos-discovery/pom.xml">
+    <entry file="file://$PROJECT_DIR$/spring-cloud-alibaba-learn/pom.xml" />
+    <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="22" column="36" lean-forward="true" selection-start-line="22" selection-start-column="36" selection-end-line="22" selection-end-column="36" />
+        <state relative-caret-position="275">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spring-cloud-dubbo-demo/spring-cloud-dubbo-api/pom.xml">
+    <entry file="file://$PROJECT_DIR$/spring-boot-nacos-discovery/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="440">
-          <caret line="21" column="38" selection-start-line="21" selection-start-column="38" selection-end-line="21" selection-end-column="38" />
+        <state relative-caret-position="210">
+          <caret line="20" column="47" selection-start-line="20" selection-start-column="47" selection-end-line="20" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-nacos-discovery/src/main/resource/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="28" lean-forward="true" selection-start-column="28" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-nacos-discovery/src/main/java/com/springboot/nacosdiscovery/NacosDiscoveryApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#334#335#0" expanded="true" />
+            <element signature="e#369#370#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/spring-boot-nacos-discovery/src/main/java/com/springboot/nacosdiscovery/DiscoveryController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="279">
-          <caret line="22" column="24" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
+        <state relative-caret-position="274">
+          <caret line="25" column="1" lean-forward="true" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1201,7 +1317,6 @@
       </state>
       <state key="GlobalLibrariesConfigurable.UI">
         <settings>
-          <last-edited>Python 3.9 interpreter library</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -1230,6 +1345,7 @@
             <option name="proportions">
               <list>
                 <option value="0.2" />
+                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
@@ -1249,11 +1365,11 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited>Home</last-edited>
+          <last-edited>Maven: com.alibaba.middleware:metrics-core-api:2.0.1</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.40492958" />
               </list>
             </option>
           </splitter-proportions>

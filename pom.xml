@@ -16,13 +16,11 @@
     </properties>
 
     <modules>
-        <module>dubbo</module>
         <module>spring-cloud-alibaba-learn</module>
         <module>redis-spring-boot-starter</module>
         <module>dubbo-only</module>
         <module>spring-boot-dubbo</module>
         <module>spring-cloud-dubbo-demo</module>
-        <module>nacos</module>
         <module>spring-boot-nacos-discovery</module>
     </modules>
 
