@@ -22,7 +22,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="1.8">
-      <module name="alibaba-learn-all" target="8" />
+      <module name="alibaba-learn-all" target="1.5" />
       <module name="dubbo" target="1.8" />
       <module name="dubbo-bom" target="1.8" />
       <module name="dubbo-cluster" target="1.8" />
@@ -71,7 +71,7 @@
       <module name="dubbo-monitor" target="1.8" />
       <module name="dubbo-monitor-api" target="1.8" />
       <module name="dubbo-monitor-default" target="1.8" />
-      <module name="dubbo-only" target="8" />
+      <module name="dubbo-only" target="1.5" />
       <module name="dubbo-parent" target="1.8" />
       <module name="dubbo-plugin" target="1.8" />
       <module name="dubbo-qos" target="1.8" />
@@ -140,20 +140,20 @@
       <module name="nacos-istio" target="1.8" />
       <module name="nacos-naming" target="1.8" />
       <module name="nacos-test" target="1.8" />
-      <module name="redis-spring-boot-starter" target="8" />
-      <module name="spring-boot-dubbo" target="8" />
-      <module name="spring-boot-dubbo-api" target="8" />
-      <module name="spring-boot-dubbo-interface" target="8" />
-      <module name="spring-boot-dubbo-provider" target="8" />
+      <module name="redis-spring-boot-starter" target="1.5" />
+      <module name="spring-boot-dubbo" target="1.5" />
+      <module name="spring-boot-dubbo-api" target="1.5" />
+      <module name="spring-boot-dubbo-interface" target="1.5" />
+      <module name="spring-boot-dubbo-provider" target="1.5" />
       <module name="spring-boot-nacos-discovery" target="8" />
       <module name="spring-cloud-alibaba-learn" target="8" />
-      <module name="spring-cloud-dubbo-api" target="8" />
-      <module name="spring-cloud-dubbo-demo" target="8" />
-      <module name="spring-cloud-dubbo-interface" target="8" />
-      <module name="spring-cloud-dubbo-provider" target="8" />
-      <module name="user-api" target="8" />
-      <module name="user-interface" target="8" />
-      <module name="user-provider" target="8" />
+      <module name="spring-cloud-dubbo-api" target="1.5" />
+      <module name="spring-cloud-dubbo-demo" target="1.5" />
+      <module name="spring-cloud-dubbo-interface" target="1.5" />
+      <module name="spring-cloud-dubbo-provider" target="1.5" />
+      <module name="user-api" target="1.5" />
+      <module name="user-interface" target="1.5" />
+      <module name="user-provider" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>
