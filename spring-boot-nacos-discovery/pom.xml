@@ -21,7 +21,7 @@
             <groupId>com.alibaba.boot</groupId>
             <artifactId>nacos-discovery-spring-boot-starter</artifactId>
             <version>0.2.4</version>
-            <systemPath>/Users/jiamin/work_soft/maven/apache-maven-3.3.9/com/alibaba/boot/nacos-discovery-spring-boot-starter/0.2.4/nacos-discovery-spring-boot-starter-0.2.4.jar </systemPath>
+            <!--<systemPath>/Users/jiamin/work_soft/maven/apache-maven-3.3.9/com/alibaba/boot/nacos-discovery-spring-boot-starter/0.2.4/nacos-discovery-spring-boot-starter-0.2.4.jar </systemPath>-->
         </dependency>
         <dependency>
             <groupId>com.alibaba.nacos</groupId>
